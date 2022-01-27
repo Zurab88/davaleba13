@@ -1,0 +1,83 @@
+.center {
+    width: 1920px;
+    margin: 0 auto;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 140px;
+    padding-left: 140px;
+}
+.logo {
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+.nav-ul {
+    display: flex;
+}
+.nav-li {
+    margin-left: 50px;
+    font-size: 20px;
+    align-items: center;
+    margin-top: 75px;
+    margin-bottom: 105px;
+}
+.conteiner {
+    padding-left: 140px;
+    padding-right: 140px;
+    padding-bottom: 70px;
+}
+.coverimg {
+    width: 1640px;
+    object-fit: cover;
+    margin-bottom: 140px;
+}
+.midlehead {
+    margin-bottom: 70px;
+    font-size: 40px;
+}
+.articles {
+    display: flex;
+    justify-content: space-between; 
+}
+.articles img {
+    width: 480px;
+    height: 280px;
+    margin-bottom: 20px;
+    object-fit: cover;
+}
+.articles h3 {
+    width: fit-content;
+    font-size: 30px;
+    margin-bottom: 30px;
+    margin-left: 15px;
+}
+.articles p {
+    width: 445px;
+    margin-left: 15px;
+    margin-bottom: 70px;
+    font-size: 18px;
+}
+.btnposition {
+    margin-bottom: 35px;
+    margin-right: 15px;
+    text-align: right;
+}
+.btn {
+    font-size: 24px;
+    border: none;
+    background-color: white;
+}
+.mdlbtn {
+    text-align: center;
+    margin-top: 55px;
+    margin-bottom: 50px;
+    font-size: 30px;
+}
+.midlbtn {
+    background-color: white;
+    font-size: 30px;
+}
+.footer {
+    
+}
