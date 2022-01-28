@@ -79,5 +79,33 @@
     font-size: 30px;
 }
 .footer {
+    background-color: #2E2E2E;
+    padding: 55px 140px;
+    text-align: center;
+}
+.footdiv {
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+}
+.foot-div-ul {
+    line-height: 1.6;
+    margin-top: 10px;
+}
+.li-head {
+    font-size: 20px;
+    color: #F2F2F2;
+}
+.li-head a {
+    font-size: 13px;
     
+}
+.li-ateg {
+    color: #F2F2F2;
+}
+.foot-logo {
+    margin-top: 25px;
+}
+.inst {
+    margin-left: 35px;
 }
