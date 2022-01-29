@@ -112,6 +112,12 @@
 .inst {
     margin-left: 35px;
 }
+.addr-contact {
+    display: flex;
+    justify-content: space-between;
+    gap: 360px;
+}
+
 @media screen and (max-width: 320px) {
     .center {
         width: 320px;
@@ -219,6 +225,7 @@
     .footdiv {
         display: block;
         text-align: center;
+    
     }
     .li-head {
         font-size: 20px;
@@ -246,5 +253,11 @@
         margin-left: 15px;
         width: 17px;
         height: 17px;
+    }
+    .addr-contact {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column-reverse;
+        gap: 30px;
     }
 }
